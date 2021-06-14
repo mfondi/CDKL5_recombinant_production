@@ -25,8 +25,10 @@ BOF = addReaction(BOF, 'RXNbiomass', '0.000341 plasmid[c] + 0.0114 LOS[c] + 40 c
 BOF = addReaction(BOF, 'CDKL5.c', ' 0.426 cpd00052[c] + 0.574 cpd00062[c] + 59 cpd00035[c] + 6 cpd00084[c]  + 63 cpd00041[c] +  76 cpd00023[c] + 32 cpd00066[c]  + 72 cpd00033[c] + 49 cpd00119[c] + 39 cpd00322[c] + 84 cpd00039[c] + 101 cpd00107[c] + 20 cpd00060[c] + 59 cpd00132[c] + 80 cpd00129[c] + 53 cpd00053[c] + 76 cpd00051[c] + 140 cpd00054[c] + 56 cpd00161[c] + 41 cpd00156[c] + 6 cpd00065[c] + 32 cpd00069[c] + 2288.574 cpd00002[c] + 2286.426 cpd00038[c]  ->  0.01 cdkl5[c] + 2288 cpd00018[c] + 2286 cpd00031[c] + 4572 cpd00009[c]');
 BOF = addExchangeRxn(BOF, 'cdkl5[c]' , 0,  1000);
 
-
-optimizeCbModel(BOF)
+iMF721_v2= addReaction(TAC125Model, 'RXNbiomass', '0.0114 LOS[c] + 40 cpd00001[c] + 40.18733392998440582 cpd00002[c] + 0.181174243687705 cpd00062[c] + 0.13236500641593288 cpd00052[c] + 0.13749453170020254 cpd00038[c] + 0.014829810919920318 cpd00115[c] + 0.010737901824505394 cpd00356[c] + 0.009432412454815721 cpd00241[c] +0.015269223874917404 cpd00357[c] + 0.00215 cpd00003[c] + 5e-06 cpd00004[c] + 0.0004 cpd00005[c] + 0.00013 cpd00006[c] + 5e-06 cpd00010[c] + 5e-06 cpd00015[c] + 0.001 cpd00018[c] + 5e-05 cpd00022[c] + 0.003 cpd00026[c] + 3e-06 cpd00078[c] + 0.035 cpd00118[c] + 0.47 cpd00155[c] + 0.007 cpd00264[c] + 0.05 cpd00345[c] + 0.010152 cpd00908[c] + 6.9e-05 cpd11422[c] + 0.069 cpd11456[c] + 0.000487 cpd11463[c] + 0.0200076 cpd11652[c] + 0.0277812 cpd16661[e]  -> 40 cpd00008[c] + 40 cpd00009[c] + 40 cpd00067[c] + cpd11416[c] +  0.688637060862405 cpd00012[c]');
+iMF721_v2 = changeRxnBounds(iMF721_v2, EX_reactions, -1, 'l');
+optimizeCbModel(iMF721_v2)
+save('iMF217_v2')
 
 
 % verify CDKL5 flux 
