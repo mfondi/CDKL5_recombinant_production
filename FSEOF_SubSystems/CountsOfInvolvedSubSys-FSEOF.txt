@@ -1,0 +1,23 @@
+Alanine and aspartate metabolism	1
+Arginine and proline metabolism	1
+C5-Branched dibasic acid metabolism	1
+Cysteine metabolism	2
+Glutamate metabolism	1
+Glycine, serine and threonine metabolism	2
+Glycolysis 	5
+Histidine metabolism	10
+Lysine biosynthesis	7
+Methionine metabolism	1
+Nitrogen metabolism	1
+No Info	7
+No Subsystem found	7
+Pantothenate and CoA biosynthesis	1
+Pentose phosphate pathway	2
+Phenylalanine metabolism	1
+Phenylalanine, tyrosine and tryptophan biosynthesis	10
+Purine metabolism	4
+Pyrimidine metabolism	1
+Sulfur metabolism	1
+Tyrosine metabolism	1
+Urea cycle and metabolism of amino groups	8
+Valine, leucine and isoleucine biosynthesis	11

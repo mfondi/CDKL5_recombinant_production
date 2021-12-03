@@ -1,0 +1,83 @@
+Slope	rowID	Enzyme ID	Enzyme Name	Subsystems	Direction	Gr Rule
+4573.724	7	rxn00802	N-(L-Argininosuccinate) arginie-lyase		1	PSHA_RS11280
+1039.0609	15	rxn00011	pyruvatethiamin diphosphate acetaldehydetransferase		0	(( PSHA_RS13615 and PSHA_RS13620 and PSHA_RS01930 ) or ( PSHA_RS17075 and PSHA_RS17070 ))
+49424.3084	22	rxn05466	Ammonia transport via diffusion		1	PSHA_RS11135
+2416.451	30	rxn02476	Phosphoenolpyruvate3-phosphoshikimate		1	PSHA_RS07005
+1235.34	45	rxn01985	Deoxyinosineorthophosphate ribosyltransferase		-1	PSHA_RS15265
+6436.3436	54	rxn02186	2,3-Dihydroxy-3-methylbutanoateNADP+ oxidoreductase (isomerizing)		1	PSHA_RS04145
+2416.451	57	rxn02212	2-Dehydro-3-deoxy-D-arabino-heptonate 7-phosphate phosphate-lyase		0	PSHA_RS13355
+3899.2367	63	rxn02160	L-Histidinol-phosphate phosphohydrolase		0	PSHA_RS17195
+5706.8188	83	rxn02789	2-Isopropylmalate hydro-lyase		1	( PSHA_RS14190 and PSHA_RS14195 )
+5706.8188	107	rxn00902	3-Carboxy-3-hydroxy-4-methylpentanoate 3-methyl-2-oxobutanoate-lyase		-1	PSHA_RS14205
+5534.843	111	rxn00503	L-1-Pyrroline-5-carboxylateNAD+ oxidoreductase		-1	PSHA_RS11170
+3899.2367	129	rxn00863	L-HistidinalNAD+ oxidoreductase		1	PSHA_RS17205
+7466.6912	148	rxn00423	serine O-acetyltransferase		-1	PSHA_RS03150
+1039.0609	150	rxn03436	(S)-2-Aceto-2-hydroxybutanoateNADP+ oxidoreductase (isomerizing)		1	PSHA_RS04145
+3899.2367	173	rxn02159	L-HistidinolNAD+ oxidoreductase		1	PSHA_RS17205
+7466.6912	182	rxn00649	O3-Acetyl-L-serine acetate-lyase (adding hydrogen sulfide)		-1	PSHA_RS09475
+2416.451	252	rxn01332	PhosphoenolpyruvateD-erythrose-4-phosphate		0	PSHA_RS17530
+7461.0366	253	rxn00566	L-Cysteine L-homocysteine-lyase (deaminating)		-1	PSHA_RS09510
+1235.34	254	rxn01858	Deoxyadenosine aminohydrolase		-1	PSHA_RS00520
+3899.2367	295	rxn02834	Phosphoribosyl-ATP pyrophosphohydrolase		0	PSHA_RS17160
+3899.2367	302	rxn03175	N-(5'-Phospho-D-ribosylformimino)-5-amino-1-		1	PSHA_RS17185
+3899.2367	304	rxn02473	D-erythro-1-(Imidazol-4-yl)glycerol 3-phosphate hydro-lyase		0	PSHA_RS17195
+4573.724	317	rxn01637	N2-Acetyl-L-ornithine2-oxoglutarate aminotransferase		-1	( PSHA_RS00975 or PSHA_RS16905 )
+5544.7149	329	rxn00313	meso-2,6-Diaminoheptanedioate carboxy-lyase		0	( PSHA_RS00475 or PSHA_RS00895 )
+10440.6909	376	rxn00285	SuccinateCoA ligase (ADP-forming)		0	( PSHA_RS08065 and PSHA_RS08060 )
+4573.724	395	rxn00192	Acetyl-CoAL-glutamate N-acetyltransferase		0	PSHA_RS11280
+6436.3436	420	rxn00898	2,3-Dihydroxy-3-methylbutanoate hydro-lyase		0	( PSHA_RS13610 or PSHA_RS15485 )
+2416.451	421	rxn01739	ATPshikimate 3-phosphotransferase		0	PSHA_RS13360
+300.8906	445	rxn00414	Carbon-dioxideL-glutamine amido-ligase (ADP-forming,		0	( PSHA_RS06060 and PSHA_RS06065 )
+16402.5302	448	rxn00260	L-Aspartate2-oxoglutarate aminotransferase		-1	( PSHA_RS06515 or PSHA_RS04660 or PSHA_RS00305 )
+74285.4843	449	rxn05937	FerredoxinNADP+ oxidoreductase		1	PSHA_RS15270
+664470.0044	450	rxn05319	H2Ot5		-1	SPONTANEOUS
+1769.5304	456	rxn00527	L-Tyrosine2-oxoglutarate aminotransferase		-1	PSHA_RS17200
+5194.4353	471	rxn01974	LL-2,6-Diaminoheptanedioate 2-epimerase		1	PSHA_RS00470
+5194.4353	473	rxn01644	L-Aspartate-4-semialdehyde hydro-lyase (adding pyruvate and		0	( PSHA_RS16725 or PSHA_RS00905 )
+4573.724	506	rxn02465	N-Acetyl-L-glutamate-5-semialdehydeNADP+ 5-oxidoreductase		-1	PSHA_RS11300
+37142.7422	519	rxn12822	L-Glutamateferredoxin oxidoreductase (transaminating)		1	PSHA_RS14360
+1039.0609	522	rxn03437	(R)-2,3-Dihydroxy-3-methylpentanoate hydro-lyase		0	( PSHA_RS13610 or PSHA_RS15485 )
+3899.2367	525	rxn02320	5-Amino-2-oxopentanoate2-oxoglutarate aminotransferase		-1	PSHA_RS17200
+2416.451	534	rxn01740	ShikimateNADP+ 5-oxidoreductase		-1	PSHA_RS00155
+459.9903	576	rxn05651	sulfate transport in via proton symport		1	PSHA_RS06900
+4573.724	584	rxn01434	L-CitrullineL-aspartate ligase (AMP-forming)		1	PSHA_RS11285
+465.6449	586	rxn00693	5-MethyltetrahydrofolateL-homocysteine S-methyltransferase		1	( PSHA_RS10965 and PSHA_RS10970 )
+15767.9478	591	rxn00337	ATPL-aspartate 4-phosphotransferase		0	( PSHA_RS13395 or PSHA_RS06160 or PSHA_RS02605 or PSHA_RS11720 )
+2416.451	616	rxn02213	3-Dehydroquinate hydro-lyase		1	PSHA_RS01310
+5194.4353	634	rxn01973	N-Succinyl-LL-2,6-diaminoheptanedioate amidohydrolase		1	PSHA_RS06550
+459.9903	686	rxn00623	hydrogen-sulfideNADP+ oxidoreductase		-1	( PSHA_RS00790 and PSHA_RS00785 )
+21970.0567	697	rxn01477	6-Phospho-D-gluconate hydro-lyase		0	PSHA_RS06715
+5194.4353	706	rxn03031	Succinyl-CoA2,3,4,5-tetrahydropyridine-2,6-dicarboxylate		1	( PSHA_RS10075 or PSHA_RS00900 )
+1039.0609	716	rxn03435	(R)-2,3-Dihydroxy-3-methylpentanoateNADP+ oxidoreductase		-1	PSHA_RS04145
+1334.1701	757	rxn00493	L-Phenylalanine2-oxoglutarate aminotransferase		-1	PSHA_RS17200
+5706.8188	759	rxn01208	2-Oxo-4-methyl-3-carboxypentanoate decarboxylation		0	SPONTANEOUS
+3899.2367	766	rxn00789	1-(5-Phospho-D-ribosyl)-ATPpyrophosphate phosphoribosyl-transferase		-1	PSHA_RS17210
+459.9903	783	rxn05256	APSPTi		0	PSHA_RS00795
+1334.1701	807	rxn01000	Prephenate hydro-lyase (decarboxylating)		0	PSHA_RS04630
+15767.9478	816	rxn01643	L-Aspartate-4-semialdehydeNADP+ oxidoreductase (phosphorylating)		-1	( PSHA_RS10285 or PSHA_RS17375 )
+5194.4353	832	rxn02929	2,3,4,5-TetrahydrodipicolinateNADP+ oxidoreductase		-1	PSHA_RS06055
+5706.8188	854	rxn02811	3-Isopropylmalate hydro-lyase		-1	( PSHA_RS14190 and PSHA_RS14195 )
+4573.724	861	rxn01019	Carbamoyl-phosphateL-ornithine carbamoyltransferase		1	PSHA_RS11290
+3899.2367	871	rxn03135	Imidazole-glycerol-3-phosphate synthase		0	( PSHA_RS17190 and PSHA_RS17165 )
+4573.724	872	rxn00469	N2-Acetyl-L-ornithine amidohydrolase		1	PSHA_RS11305
+5194.4353	900	rxn03087	N-Succinyl-L-2,6-diaminoheptanedioate2-ocoglytarate		-1	( PSHA_RS00975 or PSHA_RS16905 )
+3899.2367	904	rxn02835	1-(5-phospho-D-ribosyl)-AMP 1,6-hydrolase		1	PSHA_RS17160
+4573.724	923	rxn01917	ATPN-acetyl-L-glutamate 5-phosphotransferase		1	PSHA_RS11295
+21970.0567	927	rxn03884	2-dehydro-3-deoxy-D-gluconate-6-phosphate		1	PSHA_RS06720
+1235.34	946	rxn00836	IMPpyrophosphate phosphoribosyltransferase		1	PSHA_RS02990
+2416.451	952	rxn01255	5-O-(1-Carboxyvinyl)-3-phosphoshikimate phosphate-lyase		0	PSHA_RS04795
+1039.0609	953	rxn03194	(S)-2-Aceto-2-hydroxybutanoate pyruvate-lyase (carboxylating)		1	(( PSHA_RS13615 and PSHA_RS13620 ) or ( PSHA_RS17075 and PSHA_RS17070 ))
+21970.0567	1017	rxn01476	6-Phospho-D-glucono-1,5-lactone lactonohydrolase		1	PSHA_RS05660
+216683.7825	1021	rxn05312	PIt6		1	PSHA_RS01555
+1769.5304	1025	rxn01268	PrephenateNAD+ oxidoreductase(decarboxylating)		0	PSHA_RS04625
+459.9903	1032	rxn09240	Sulfate adenyltransferase		1	( PSHA_RS01040 and PSHA_RS01035 )
+5706.8188	1084	rxn03062	3-IsopropylmalateNAD+ oxidoreductase		1	AUTOCOMPLETION
+3103.7006	1086	rxn01256	Chorismate pyruvatemutase		1	AUTOCOMPLETION
+538953.4844	1099	EX_cpd00067_e	EX_H+_e		-1	
+664470.0044	1113	EX_cpd00001_e	EX_H2O_e		0	
+459.9903	1130	EX_cpd00048_e	EX_Sulfate_e		-1	
+216683.7825	1140	EX_cpd00009_e	EX_Phosphate_e		-1	
+49424.3084	1142	EX_cpd00013_e	EX_NH3_e		-1	
+6436.3436	1267	rxn00003	2-Acetolactate pyruvate-lyase (carboxylating)		-1	( PSHA_RS17075 and PSHA_RS17070 )
+100	1328	CDKL5.c	CDKL5.c		0	
+1	1329	EX_cdkl5[c]	EX_cdkl5[c]	Exchange	0	
